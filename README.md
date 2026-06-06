@@ -213,7 +213,7 @@ class Abhishek:
 
 [![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Phone](https://img.shields.io/badge/Phone-8891110246-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918891110246)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek--pss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
 [![Location](https://img.shields.io/badge/Location-Kerala%2C+India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
 </div>
