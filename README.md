@@ -14,9 +14,9 @@
 
 ```python
 class Abhishek:
-    name        = "Abhishek"
-    location    = "Kerala, India 🌴"
-    degree      = "BCA (1st Year) — Nehru Arts & Science College, Coimbatore"
+    name        = "Abhishek ps"
+    location    = "Plakkad, Kerala, India 🌴"
+    degree      = "BCA (2st Year) — Nehru Arts & Science College, Coimbatore"
     
     certifications = ["Certified Pentester (CPT) — RedTeam"]
     
@@ -91,11 +91,11 @@ class Abhishek:
 
 <div align="center">
 
-<a href="https://github.com/abhishek-s">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/abhishek-pss">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhishek-pss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/abhishek-s">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/abhishek-pss">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-pss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -106,7 +106,7 @@ class Abhishek:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-pss&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,7 +116,7 @@ class Abhishek:
 
 <div align="center">
 
-[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-s&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-pss&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -126,7 +126,7 @@ class Abhishek:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-s&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishek-pss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -138,11 +138,11 @@ class Abhishek:
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:---|:---|:---|
-| [🔐 Secure Login Authentication System](https://github.com/abhishek-s) | Python · Flask · MySQL · HTML/CSS | JWT-based auth, bcrypt password hashing, session management, CSRF protection |
-| [🎙️ Voice Chat Web App](https://github.com/abhishek-s) | WebRTC · Socket.IO · Node.js · JavaScript | Peer-to-peer real-time audio/video, text chat, group rooms, HTTPS |
-| [🚗 Ride Booking Application](https://github.com/abhishek-s) | React.js · Node.js · Express · MySQL | Connects auto-rickshaw drivers with nearby travelers, real-time location matching |
-| [📸 Photography Portfolio Website](https://github.com/abhishek-s) | HTML5 · CSS3 · JavaScript | Dark theme, gallery animations, responsive design, smooth scroll |
-| [🍽️ Catering Business Website](https://github.com/abhishek-s) | HTML · CSS · JS · Flask | Service showcase, customer engagement, recruitment, responsive layout |
+| [🔐 Secure Login Authentication System](https://github.com/abhishek-pss) | Python · Flask · MySQL · HTML/CSS | JWT-based auth, bcrypt password hashing, session management, CSRF protection |
+| [🎙️ Voice Chat Web App](https://github.com/abhishek-pss) | WebRTC · Socket.IO · Node.js · JavaScript | Peer-to-peer real-time audio/video, text chat, group rooms, HTTPS |
+| [🚗 Ride Booking Application](https://github.com/abhishek-pss) | React.js · Node.js · Express · MySQL | Connects auto-rickshaw drivers with nearby travelers, real-time location matching |
+| [📸 Photography Portfolio Website](https://github.com/abhishek-pss) | HTML5 · CSS3 · JavaScript | Dark theme, gallery animations, responsive design, smooth scroll |
+| [🍽️ Catering Business Website](https://github.com/abhishek-pss) | HTML · CSS · JS · Flask | Service showcase, customer engagement, recruitment, responsive layout |
 
 </div>
 
@@ -211,9 +211,9 @@ class Abhishek:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps6858599@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ps6858599%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps6858599@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-8891110246-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918891110246)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek--pss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
 [![Location](https://img.shields.io/badge/Location-Kerala%2C+India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
 </div>
