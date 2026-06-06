@@ -14,9 +14,9 @@
 
 ```python
 class Abhishek:
-    name        = "Abhishek ps"
-    location    = "Plakkad, Kerala, India 🌴"
-    degree      = "BCA (2st Year) — Nehru Arts & Science College, Coimbatore"
+    name        = "Abhishek"
+    location    = "Kerala, India 🌴"
+    degree      = "BCA (1st Year) — Nehru Arts & Science College, Coimbatore"
     
     certifications = ["Certified Pentester (CPT) — RedTeam"]
     
@@ -211,9 +211,9 @@ class Abhishek:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ps6858599%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps6858599@gmail.com)
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Phone](https://img.shields.io/badge/Phone-8891110246-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918891110246)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek--pss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek--s-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhishek-pss)
 [![Location](https://img.shields.io/badge/Location-Kerala%2C+India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
 </div>
@@ -222,7 +222,7 @@ class Abhishek:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek-s&style=flat-square&color=70a5fd&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek-pss&style=flat-square&color=70a5fd&label=Profile+Views)
 
 *"Hack to learn. Learn to protect." 🛡️*
 
