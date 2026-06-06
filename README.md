@@ -14,9 +14,9 @@
 
 ```python
 class Abhishek:
-    name        = "Abhishek"
+    name        = "Abhishek ps"
     location    = "Kerala, India 🌴"
-    degree      = "BCA (1st Year) — Nehru Arts & Science College, Coimbatore"
+    degree      = "BCA (2st Year) — Nehru Arts & Science College, Coimbatore"
     
     certifications = ["Certified Pentester (CPT) — RedTeam"]
     
